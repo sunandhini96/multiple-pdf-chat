@@ -14,7 +14,8 @@ The MultiPDF Chat App is a pyton application. By using this app we chat with mul
 6. Response Generation: By providing chunks data to llm models output would be generated.
 
 # Usage:
-``` run requirements.txt ```
+``` python -r requirements.txt ```
+
 ```streamlit run app.py```
 
 # Output :
